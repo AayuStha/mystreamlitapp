@@ -36,9 +36,9 @@ python __main__.py
 ```
 
 This will start the Streamlit server, and you should see output similar to:
-
+    You can now view your Streamlit app in your browser.
 ```
-  You can now view your Streamlit app in your browser.
+  
 
     Local URL: http://localhost:8501
     Network URL: http://192.168.1.10:8501
